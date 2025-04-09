@@ -1,4 +1,4 @@
-# AzureReact App - React Application Deployment on Azure
+# AzureReact App - React App Deployment on Azure
 
 **Project Overview:**
 Built and deployed a modern React application to Microsoft Azure using Webpack, Babel, and Azure Web Apps. This project demonstrates my ability to configure modern frontend tooling and deploy scalable web apps in the cloud.
