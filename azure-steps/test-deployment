@@ -1,0 +1,13 @@
+# Step 3: Test Azure Web App Deployment
+
+## Overview:
+In this step, After deploying the React application to Azure Web App, I conducted a full round of testing to ensure a smooth and bug-free user experience from end to end.
+
+### Steps:
+1. **Navigate to the Web App Overview**: 
+   - Go to `Azure Portal` > `Recents` > find recently created Web App.
+2. **Choose the Region**:
+   - The Web App overview should open.
+   - Click on the `Default domain` link .
+3. **Test Development**:
+   - The build folder should load succesfully and the React app should be available on the internet
