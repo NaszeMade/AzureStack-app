@@ -11,13 +11,11 @@ Built and deployed a modern React application to Microsoft Azure using Webpack, 
 - Cloud-hosted with live URL and CI/CD potential
 
 ## Tools & Services Used
+- HTML
+- CSS
 - React.js
-- PostgreSQL
-- Docker
-- Svelte
-- PM2
-- Caddy
-- freedns.afraid.org
+- Babel
+- Azure Web App
 
 ## Getting Started
 ### Prerequisites
@@ -47,10 +45,9 @@ Built and deployed a modern React application to Microsoft Azure using Webpack, 
    `npm start`
    
 ## ☁️ Azure Deployment Steps
-1. Create Azure Web App from Azure Portal
-2. Set up your GitHub repo as deployment source
-3. Configure build commands and output folder
-4. Push to main branch and Azure deploys automatically
+1. [Azure Web App Setup](./azure-steps/1-web-app.md)
+2. [Attatch Build](./azure-steps/2-attach-build.md)
+3. [Test Deployment Build](./azure-steps/3-test-deployment)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
